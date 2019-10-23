@@ -1,4 +1,4 @@
-package com.bw;
+package com.bw.easy;
 /**
  * 
  * @version:
